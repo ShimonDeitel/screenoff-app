@@ -1,0 +1,27 @@
+{
+  "identifier" : "Screenoff",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "SCREENOFF_PRO",
+      "localizations" : [
+        {
+          "description" : "Weekly Average + Reminder Alarm",
+          "displayName" : "Screenoff Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.screenofflog.pro",
+      "referenceName" : "Screenoff Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
